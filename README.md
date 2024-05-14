@@ -1,4 +1,4 @@
-### Olá, sou o Felipe e aqui você pode conhecer um pouco mais sobre meus projetos!
+### Olá, sou o Júlio Gustavo e aqui você pode conhecer um pouco sobre mim e meus projetos!
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </p>
@@ -28,11 +28,11 @@
 <b> :chart_with_upwards_trend: Estatísticas</b>:
 
 <a href="https://github.com/karinnecristina">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FelipeSolera&show_icons=true&theme=dark&include_commits=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JUGURO&show_icons=true&theme=dark&include_commits=true"/>
 </a>
 
 <a href="https://github.com/karinnecristina">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSolera&layout=compact&langs_count=8&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUGURO&layout=compact&langs_count=8&theme=dark"/>
 </a>
 
 
