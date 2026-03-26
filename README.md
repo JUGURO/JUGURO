@@ -99,9 +99,7 @@ Aplicação completa com backend e frontend integrados.
 
 ## 📈 Estatísticas  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JUGURO&show_icons=true&theme=dark)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUGURO&layout=compact&theme=dark)  
+<a href="https://github.com/karinnecristina"> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JUGURO&show_icons=true&theme=dark&include_commits=true"/> </a> <a href="https://github.com/karinnecristina"> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUGURO&layout=compact&langs_count=8&theme=dark"/> </a>
 
 ---
 
